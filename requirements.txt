@@ -1,0 +1,5 @@
+fastapi[standard]
+pymongo
+opencv-python
+ultralytics
+numpy
